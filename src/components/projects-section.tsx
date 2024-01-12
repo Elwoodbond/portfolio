@@ -42,13 +42,6 @@ const projects = [
     image: "/tindog.png",
     github: "https://github.com/Elwoodbond/tindog-main",
     link: "https://elwoodbond.github.io/tindog-main/",
-  },
-  {
-    name: "Futurama Mailer",
-    description: "Futurama Mailer is a mailer app built with JavaScript and the MailChimp API.",
-    image: "/mailinglist.png",
-    github: "https://github.com/Elwoodbond/newsletter-signup",
-    link: "https://newsletter1-05dc48fbccb6.herokuapp.com/",
   }
 ]
 
