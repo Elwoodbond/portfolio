@@ -26,8 +26,7 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               developer{" "}
             </span>
-            based in Tampa, Fl working towards creating web apps and pages that
-            make life easier.
+            based in Tampa, Fl.
           </p>
           <Link
             to="projects"
