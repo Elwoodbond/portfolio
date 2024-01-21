@@ -39,7 +39,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              When I'm not coding I enjoy traveling, playing practicing Brazilian Jiu Jitsu, 
+              When I'm not coding I enjoy traveling, practicing Brazilian Jiu Jitsu, 
               vegetable gardening, and performing on stage.
             </p>
             <br />
