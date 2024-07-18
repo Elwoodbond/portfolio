@@ -28,28 +28,13 @@ const projects = [
     github: "https://github.com/Elwoodbond/imdb-clone",
     link: "https://imdb-wheat.vercel.app/",
   },
-  {
-    name: "Drum Kit",
-    description: "Drum Kit is a virtual drum kit built using JavaScript and JQuery.",
-    image: "/drum.png",
-    github: "https://github.com/Elwoodbond/DrumMachine",
-    link: "https://drum-machine-xi.vercel.app/",
-  },
-  {
-    name: "TinDog",
-    description:
-      "TinDog is a landing page built using Bootstrap.",
-    image: "/tindog.png",
-    github: "https://github.com/Elwoodbond/tindog-main",
-    link: "https://elwoodbond.github.io/tindog-main/",
-  }
 ]
 
 const ProjectsSection = () => {
   return (
     <section id="projects">
       <h1 className="my-10 text-center font-bold text-4xl">
-        Projects
+        Full Stack
         <hr className="w-6 h-1 mx-auto my-4 bg-teal-500 border-0 rounded"></hr>
       </h1>
 

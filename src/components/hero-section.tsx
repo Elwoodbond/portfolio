@@ -42,7 +42,19 @@ const HeroSection = () => {
             offset={-100}
             duration={500}
           >
-            Projects
+            Develop
+          </Link>
+          {" "}
+          <Link
+            to="webDesign"
+            className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"
+            activeClass="active"
+            spy={true}
+            smooth={true}
+            offset={-100}
+            duration={500}
+          >
+            Design
           </Link>
         </div>
       </div>
