@@ -14,6 +14,13 @@ const projects = [
     link: "https://soshal.vercel.app/",
   },
   {
+    name: "Anime Vault",
+    description: "Anime Vault is a visual anime poster app built using React, Tailwind CSS, and the Shikimori API.",
+    image: "/animevault.png",
+    github: "https://github.com/Elwoodbond/anime_vault",
+    link: "https://anime-vault-b7po.vercel.app/",
+  },
+  {
     name: "IMDb Clone",
     description:
       "IMDb Clone is a movie database app built using Next.js and Tailwind CSS.",
@@ -27,13 +34,6 @@ const projects = [
     image: "/drum.png",
     github: "https://github.com/Elwoodbond/DrumMachine",
     link: "https://drum-machine-xi.vercel.app/",
-  },
-  {
-    name: "Anime Vault",
-    description: "Anime Vault is a visual anime poster app built using React, Tailwind CSS, and the Shikimori API.",
-    image: "/animevault.png",
-    github: "https://github.com/Elwoodbond/anime_vault",
-    link: "https://anime-vault-b7po.vercel.app/",
   },
   {
     name: "TinDog",

@@ -27,6 +27,10 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               developer{" "}
             </span>
+            and{" "}
+            <span className="font-semibold text-teal-600">
+            designer{" "}
+            </span>
             based in Tampa, Fl.
           </p>
           <Link

@@ -14,6 +14,12 @@ const skills = [
   { skill: "JQuery" },
   { skill: "Node.js" },
   { skill: "Git" },
+  { skill: "WordPress" },
+  { skill: "Wix" },
+  { skill: "GoDaddy" },
+  { skill: "Graphic Design" },
+  { skill: "Canva" },
+  { skill: "Elementor" },
 ]
 
 const AboutSection = () => {
@@ -35,7 +41,7 @@ const AboutSection = () => {
               the University of Tampa with a passion for
               creating. With my background in performing arts, I have a
               unique perspective on the creative process and how to
-              effectively work with others.                          
+              effectively work with others to create engaging content.                         
             </p>
             <br />
             <p>
