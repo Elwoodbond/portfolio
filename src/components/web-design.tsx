@@ -12,12 +12,12 @@ const experience = [
     },
     {
       name: "Joint Ventures Network",
-      image: "/jointventures.png",
+      image: "/JointVentures.png",
       link: "https://www.jointventuresnetwork.com",
     },
     {
       name: "TD Tax Consult",
-      image: "/tdtax.png",
+      image: "/TDtax.png",
       link: "https://tdtaxconsult.godaddysites.com/",
     },
     {
