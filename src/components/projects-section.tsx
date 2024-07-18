@@ -16,7 +16,7 @@ const projects = [
   {
     name: "IMDb Clone",
     description:
-      "IMDb Clone is a movie database app that built using Next.js and Tailwind CSS.",
+      "IMDb Clone is a movie database app built using Next.js and Tailwind CSS.",
     image: "/IMDb.png",
     github: "https://github.com/Elwoodbond/imdb-clone",
     link: "https://imdb-wheat.vercel.app/",
@@ -29,19 +29,19 @@ const projects = [
     link: "https://drum-machine-xi.vercel.app/",
   },
   {
+    name: "Anime Vault",
+    description: "Anime Vault is a visual anime poster app built using React, Tailwind CSS, and the Shikimori API.",
+    image: "/animevault.png",
+    github: "https://github.com/Elwoodbond/anime_vault",
+    link: "https://anime-vault-b7po.vercel.app/",
+  },
+  {
     name: "TinDog",
     description:
       "TinDog is a landing page built using Bootstrap.",
     image: "/tindog.png",
     github: "https://github.com/Elwoodbond/tindog-main",
     link: "https://elwoodbond.github.io/tindog-main/",
-  },
-  {
-    name: "Futurama Mailer",
-    description: "Futurama Mailer is a mailer app built with JavaScript and the MailChimp API.",
-    image: "/mailinglist.png",
-    github: "https://github.com/Elwoodbond/newsletter-signup",
-    link: "https://newsletter1-05dc48fbccb6.herokuapp.com/",
   }
 ]
 

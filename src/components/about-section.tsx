@@ -31,11 +31,16 @@ const AboutSection = () => {
               Get to know me!
             </h1>
             <p>
-            I have a passion for
-              learning and a desire to always discover more about the world
-              around me. I am excited to see where my career takes me and am
-               open to new opportunities both remote and in the Tampa Bay 
-              area.
+              I am a lifelong resident of Tampa and graduate of 
+              the University of Tampa with a passion for
+              creating. With my background in performing arts, I have a
+              unique perspective on the creative process and how to
+              effectively work with others.                          
+            </p>
+            <br />
+            <p>
+              When I am not coding I enjoy traveling, practicing Brazilian Jiu Jitsu, 
+              vegetable gardening, and performing on stage.
             </p>
             <br />
 
