@@ -11,6 +11,7 @@ const HeroSection = () => {
         <div className="md:mt-2 md:w-1/2">
           <Image
             src="/headshot.jpg"
+
             alt=""
             width={325}
             height={325}
