@@ -22,7 +22,11 @@ const NAV_ITEMS: Array<NavItem> = [
     page: "about",
   },
   {
-    label: "Projects",
+    label: "Web Design",
+    page: "webDesign",
+  },
+  {
+    label: "Full Stack",
     page: "projects",
   },
 ]
